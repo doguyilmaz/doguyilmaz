@@ -2,8 +2,8 @@
 
 ### Hello, wanderer.
 
+![Top Languages](profile/top-langs.svg)
+
 ---
 
 Good things take time and they're on their way.
-
-![Top Languages](profile/top-langs.svg)
