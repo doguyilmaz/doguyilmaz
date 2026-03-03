@@ -6,6 +6,4 @@
 
 Good things take time and they're on their way.
 
-<div align="center">
-  <img src="profile/top-langs.svg" alt="Top Languages" />
-</div>
+![Top Languages](profile/top-langs.svg)
