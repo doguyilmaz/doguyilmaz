@@ -5,3 +5,9 @@
 ---
 
 Good things take time and they're on their way.
+
+<div align="center">
+  <img src="profile/stats.svg" alt="GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Top Languages" />
+  <img src="profile/streak.svg" alt="GitHub Streak" />
+</div>
